@@ -4,7 +4,7 @@
   Nikhil Kushwaha | C, Python, HTML, CSS Enthusiast |  
 </h2>  
   <h2>
-  Building impactful projects one line of code at a time!
+  Building impactful projects | One line of code at a time!
   </h2>
   
 </div>
