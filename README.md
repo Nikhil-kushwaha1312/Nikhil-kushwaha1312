@@ -1,11 +1,11 @@
 # 💫 About Me:
 <div align="center">
-<h3>
+<h2>
   Nikhil Kushwaha | C, Python, HTML, CSS Enthusiast |  
-</h3>  
-  <h3>
+</h2>  
+  <h2>
   Building impactful projects one line of code at a time!
-  </h3>
+  </h2>
   
 </div>
 
